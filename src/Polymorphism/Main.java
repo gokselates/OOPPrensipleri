@@ -66,13 +66,8 @@ public class Main {
     }
 
     public static void main(String[] args) {
-//        Hayvan hayvan = new Hayvan("Tony");
-//        System.out.println(hayvan.konus());
 
-//        Hayvan hayvan = new At("Yele");
-//        System.out.println(hayvan.konus());
-        konustur(new Kedi("Bekir"));
-
+        konustur(new Kopek("Kopek"));
 
     }
 }
